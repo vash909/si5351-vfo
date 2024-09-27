@@ -2,7 +2,7 @@
 
 // Programmable frequency generator for Arduino and SI5351
 // By IU1BOT - Lorenzo - iu1bot@vashradio.org
-
+// Credits for the library used: https://github.com/PU2REO/Si5351ArduinoLite
 //---------------------------------------------------------------------------------------------------------
 
 #include "si5351.h"
